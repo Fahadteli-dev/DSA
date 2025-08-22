@@ -6,7 +6,7 @@ int increase(int n)
     n=n+1;
     return n;
 }
-int increse1(int&k)
+void increse1(int&k)
 {
     k=k+1;
 }
